@@ -36,7 +36,7 @@ Hi, I am a Senior Undergraduate student at Indian Institute of Technology Bombay
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="30" style="vertical-align:top; margin:4px">
 </p>
 
-[![Keymii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keymii&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Keymii/)
+<!--- [![Keymii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keymii&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Keymii/) --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Keymii&theme=tokyonight&count_private=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Keymii/)
 
 <!--
