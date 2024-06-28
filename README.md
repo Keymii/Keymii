@@ -2,15 +2,12 @@
 
 ## Ahem... I'm Keymii, nice to meet you 👋
 Hi, I am a Senior Undergraduate student at Indian Institute of Technology Bombay (IITB), India.
-- 🔭 I’m currently working on android app development using flutter and JS based microfrontends.
-- 🌱 I’m currently learning Unit Testing, Code Optimization in Object Oriented Languages and having a life 🥲.
+- 🔭 I’m currently working on JS based microfrontends and app development using flutter.
+- 🌱 I’m currently learning about Unit Testing, Compiler Design for OO Languages, Operating Systems and having a life 🥲.
 - 💬 Ask me about anything you want, I'm happy to help.
 - 📫 How to reach me: [bharadwaj.abhijat@yahoo.com](mailto:bharadwaj.abhijat@yahoo.com)
-- ⚡ Fun fact: Bananas are readioactive.
+- ⚡ Fun fact: The term “bug” to describe a glitch in a system originated when a moth caused a malfunction in an early computer.
 
-
-[![LinkedIn: Abhijat Bharadwaj](https://img.shields.io/badge/abhijat%20bharadwaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijat-bharadwaj-459b26227/)
-[![](https://img.shields.io/badge/Keymii-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keymii)
 ## 🧰 Languages and Technologies
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="30" style="vertical-align:top; margin:4px">
@@ -35,6 +32,9 @@ Hi, I am a Senior Undergraduate student at Indian Institute of Technology Bombay
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" alt="OpenCV" height="30" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="30" style="vertical-align:top; margin:4px">
 </p>
+
+[![LinkedIn: Abhijat Bharadwaj](https://img.shields.io/badge/abhijat%20bharadwaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijat-bharadwaj-459b26227/)
+[![](https://img.shields.io/badge/Keymii-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keymii)
 
 <!--- [![Keymii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keymii&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Keymii/) --->
 <!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Keymii&theme=tokyonight&count_private=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Keymii/) --->
